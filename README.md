@@ -1,1 +1,2 @@
-# Covid-Tracker-
+# Covid-Tracker
+This application is used to alert users if they have been in the same room as someone who has tested positive with COVID-19 in the last 14 days. Users log in to view their locations, log locations, and to alert the company that they have tested positive. If a user reports that they have tested positive an email will be sent to all users who have been in the same room as that individual. Users in contact with the individual will also be alerted on their log in to the site.
